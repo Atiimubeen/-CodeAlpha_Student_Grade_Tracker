@@ -20,7 +20,7 @@ public class StudentGradeTracker {
                 break;
             }
 
-            // Try to convert the input to an integer and add it to the list
+           
             try {
                 int grade = Integer.parseInt(input);
                 grades.add(grade);
